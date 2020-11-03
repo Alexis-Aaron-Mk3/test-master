@@ -1,0 +1,15 @@
+.background{
+    background-color: #231f20;
+    height: 100vh;
+}
+
+input{
+    width:100% !important;
+}
+input[type="date"]{
+    width: 20vw !important;
+}
+
+.fs-registro{
+    font-size: 3em ;
+}

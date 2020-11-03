@@ -1,0 +1,42 @@
+.background{
+    background-color: #231f20;
+    height: 100vh;
+}
+.logoLogin{
+    width:20em;
+    height: 13em;
+    margin:0 auto;
+}
+
+
+input{
+    width:30vw;
+    border: none;
+    border-radius: 2em;
+    padding:.8em 1.5em;
+    outline:none;
+}
+input:active,input:hover{
+    border:none;
+    outline:none;
+}
+input::placeholder{
+    color: black;
+    font-weight: bold;
+}
+
+button:focus{
+    outline:none;
+}
+.button{
+    background-color: white;
+    padding:.7em;
+    border-radius: 2em;
+    width:10em;
+}
+.fb{
+    font-weight: bold;
+}
+.fs{
+    font-size: 1.5em;
+}

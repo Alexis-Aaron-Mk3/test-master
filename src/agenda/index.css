@@ -1,0 +1,49 @@
+/* importaciones */
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+
+/* quitar estilo */
+button {
+  color: transparent;
+  border: none;
+  background-color: inherit;
+}
+
+/* estilos de pagina */
+
+body {
+  margin: 0;
+  background-color: black;
+  font-family: "Prata", serif;
+  min-height: 100%;
+}
+
+/* estilos de clase */
+button,
+.icon {
+  color: black;
+}
+button:hover {
+  cursor: pointer;
+}
+
+/* colores usados */
+.bg-color-primary {
+  background-color: #231f20;
+}
+.color-primary {
+  color: #231f20;
+}
+.bg-color-secondary {
+  background-color: #bababa;
+}
+.color-secondary {
+  color: #bababa;
+}
+/* estilos personalizados */
+.bold {
+  font-weight: bold;
+}
+
+.border-person {
+  border: solid 0.2em black;
+}

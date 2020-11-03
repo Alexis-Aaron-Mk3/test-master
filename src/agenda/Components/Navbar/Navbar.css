@@ -1,0 +1,33 @@
+nav {
+  background-color: #231f20;
+}
+
+/* estilo de navbar */
+.logo {
+  width: 5em;
+  height: 3.5em;
+}
+
+.font-menu {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.font-menu-icon {
+  font-size: 2em;
+  font-weight: bold;
+}
+.dropdown-modified {
+  position: relative;
+  left: -2em;
+}
+.size-icon {
+  font-size: 2em;
+}
+
+.size-icon-sm {
+  font-size: 1.3em;
+}
+.icon-menu {
+  height: 2.5em;
+}
